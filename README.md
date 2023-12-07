@@ -13,4 +13,5 @@ This project is about recreating standard C++ containers, namely: vector, stack,
 
 # **Useful resources**
 * Two videos on RBT ([one](https://www.youtube.com/watch?v=nMExd4DthdA), [two](https://www.youtube.com/watch?v=v6eDztNiJwo))
+* Book by T. Cormen et al "Introduction to Algorithms" (section on trees and RBT)
 
